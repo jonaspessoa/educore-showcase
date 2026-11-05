@@ -2,7 +2,7 @@
 
 **Uma experiência integrada de gestão acadêmica, administrativa e financeira.**
 
-[**Explorar apresentação pública**](https://educore-demo-k196.onrender.com/) · [**Portfólio de Jonas Pessoa**](https://jonascepa09-star.github.io/jonaspessoa.github.io/)
+[**Explorar apresentação pública**](https://educore-demo-k196.onrender.com/) · [**Portfólio de Jonas Pessoa**](https://jonaspessoa.github.io/)
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-5.2_LTS-0C4B33?logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Código privado](https://img.shields.io/badge/C%C3%B3digo-Privado-555555)
 
