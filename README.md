@@ -2,9 +2,13 @@
 
 **Uma experiência integrada de gestão acadêmica, administrativa e financeira.**
 
-[**Explorar demonstração pública**](https://educore-demo-k196.onrender.com/) · [**Acessar apresentação do sistema**](https://educore-demo-k196.onrender.com/)
+[**Explorar apresentação pública**](https://educore-demo-k196.onrender.com/) · [**Portfólio de Jonas Pessoa**](https://jonascepa09-star.github.io/jonaspessoa.github.io/)
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-5.2_LTS-0C4B33?logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Código privado](https://img.shields.io/badge/C%C3%B3digo-Privado-555555)
+
+![Apresentação pública do EduCore com a jornada demonstrativa](assets/demo-apresentacao.png)
+
+*Captura real da apresentação pública em 05/11/2026. O conteúdo usa uma instituição e pessoas fictícias.*
 
 ## Visão geral
 
@@ -16,7 +20,7 @@ O **EduCore** é uma aplicação web demonstrativa para centralizar processos de
 
 **[Abrir vitrine interativa do EduCore →](https://educore-demo-k196.onrender.com/)**
 
-A vitrine é pública e apresenta a jornada **aluno → turma → matrícula → chamada → frequência**. O acesso administrativo exige uma conta individual; não são distribuídas credenciais públicas. A hospedagem gratuita pode demorar a iniciar após inatividade.
+A vitrine é pública e apresenta cenas interativas de **cadastro → turma → matrícula**. As cenas de chamada, frequência e financeiro ainda estão em desenvolvimento, embora esses módulos sejam descritos como implementados no sistema. O acesso administrativo exige uma conta individual; não são distribuídas credenciais públicas. A hospedagem gratuita pode demorar a iniciar após inatividade.
 
 ## Funcionalidades implementadas
 
@@ -78,3 +82,9 @@ O código da aplicação permanece em um repositório privado. A publicação de
 ## Autoria
 
 Projeto de **Jonas Pessoa**. O EduCore apresenta soluções de arquitetura, modelagem de dados, integridade transacional, controle de acesso e interfaces para gestão educacional.
+
+## Verificação desta apresentação
+
+Em 05/11/2026, foram conferidos o acesso à vitrine pública, as cenas de cadastro, turma e matrícula e os limites de acesso administrativo. Os resultados de testes e volumes de dados acima são registros históricos da documentação privada, não reexecutados nesta revisão. A vitrine online exibe evidências de uma versão anterior; números de versões e datas diferentes não devem ser somados ou tratados como métricas atuais.
+
+O desenvolvimento é apresentado na vitrine como um projeto com assistência de IA, revisão incremental e testes.
